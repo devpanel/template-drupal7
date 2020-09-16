@@ -1,0 +1,6 @@
+---
+kind: pipeline
+type: kubernetes
+name: Publish images pipeline
+steps:
+  # Read the docs https://docs.drone.io/pipeline/kubernetes/overview/
